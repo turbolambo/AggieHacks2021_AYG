@@ -21,9 +21,10 @@ Thanks to Kaggler Gabriel Preda for providing such a good dataset!
 ## Analysis
 
 We performed:
-**Tweets Overall Analysis**
 
-**Vaccine Brand Analysis**
+**Tweets Overall Analysis** -
+
+**Vaccine Brand Analysis** -
 
 **Sentiment Prediction** - Multi-Logistic Regression and Random Forest models were performed to predict sentiment based on features other than Tweet text.
             
