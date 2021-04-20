@@ -5,6 +5,7 @@
 ## Data Collection
 
 This dataset contains recent tweets from 12/20/20 about the COVID-19 vaccines used in entire world on large scale. The data is collected using tweepy Python package to access Twitter API and is stored in csv file. Uploaded to Kaggle by Gabriel Preda.
+
 Link to the Kaggle dataset: https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets
 
 **Data collection frequency**
