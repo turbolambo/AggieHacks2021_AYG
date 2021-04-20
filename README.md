@@ -22,12 +22,12 @@ Thanks to Kaggler Gabriel Preda for providing such a good dataset!
 
 We performed:
 
-**Tweets Overall Analysis** -
+**Tweets Overall Analysis** - Following a sentiment analysis, time series trend and topic modeling utilizing word cloud as visulization tools was studied to obtain insights.
 
-**Vaccine Brand Analysis** -
+**Vaccine Brand Analysis** - We then delved deeper into the sentiment toward different brands of COIVD vaccines.
 
 **Sentiment Prediction** - Multi-Logistic Regression and Random Forest models were performed to predict sentiment based on features other than Tweet text.
-            
+           
 
 Check out the annotated deck for more details!!!
 
