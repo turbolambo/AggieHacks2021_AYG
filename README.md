@@ -16,7 +16,17 @@ The data used in this analysis is updated until 4/8/2021.
 
 Thanks to Kaggler Gabriel Preda for providing such a good dataset!
 
-## Analysis and Model Insights
+## Analysis
+
+We performed:
+**Tweets Overall Analysis**
+
+**Vaccine Brand Analysis**
+
+**Sentiment Prediction** - Multi-Kigustuc Regressuib and Ramdom Forest models were performed to predict sentiment based on features other than Tweet text.
+            
+
+Check out the annotated deck for more details!!!
 
 ## Recommendation
 
