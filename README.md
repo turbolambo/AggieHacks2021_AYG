@@ -28,7 +28,7 @@ Thanks to Kaggler Gabriel Preda for providing such a good dataset!
 
 **Vaccine Brand Analysis** - We then delved deeper into the sentiment toward different brands of COIVD vaccines.
 
-**Sentiment Prediction** - Multi-Logistic Regression model and Random Forest model(MAE 0.14 comapred to Average baseline error 0.38) were performed to predict sentiment based on features other than tweet text.
+**Sentiment Prediction** - Multi-Logistic Regression model and Random Forest model (MAE 0.14 comapred to Average baseline error 0.38) were performed to predict sentiment based on features other than tweet text.
            
 
 Check out the annotated deck for more details!!!
