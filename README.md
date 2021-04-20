@@ -9,6 +9,7 @@ This dataset contains recent tweets from 12/20/20 about the COVID-19 vaccines us
 Link to the Kaggle dataset: https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets
 
 **Data collection frequency**
+
 The collection was in the first days twice a day, until Gabriel Preda identified approximatively the new tweets quota and then collection (for all vaccines) stabilized at once a day, during morning hours (GMT).
 
 The data used in this analysis is updated until 4/8/2021.
