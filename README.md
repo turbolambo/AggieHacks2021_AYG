@@ -35,9 +35,6 @@ Check out the annotated deck for more details!!!
 
 
 
-## Recommendation
-
-
 
 
 ### References
